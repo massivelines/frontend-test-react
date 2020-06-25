@@ -1,17 +1,12 @@
 import React from 'react';
-import './App.css';
-import { todos, notodos } from './data/todos';
-import { Todo } from './components/todos';
-import { ComponentMap } from './components/helpers';
+import { TodoList } from './components/todos';
+import { todos } from './data/todos';
 
 function App() {
 
   return (
     <div className="App">
-      <ComponentMap
-        array={todos}
-        component={Todo}
-      />
+      <TodoList  todos={todos} />
     </div>
   );
 }

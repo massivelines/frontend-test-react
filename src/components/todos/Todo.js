@@ -1,5 +1,18 @@
 import React from 'react';
 
-export function Todo({ todo, key }) {
-    return <h4 key={key}>{todo.content}</h4>;
+export class Todo extends React.Component {
+    render() {
+        const { todo, additionalProp } = this.props;
+        return <h4
+        >
+            {todo.content} {additionalProp}
+        </h4>;
+    }
 }
+
+// export function Todo({ todo, additionalProp }) {
+//     return <h4
+//     >
+//         {todo.content} {additionalProp}
+//     </h4>;
+// }
