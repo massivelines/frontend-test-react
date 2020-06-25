@@ -3,6 +3,7 @@
 
 # Readme
 
+![Screenshot](screenshot.png)
 
 To run this app, you should fork this repo to your Github profile and clone that repo down locally.
 
