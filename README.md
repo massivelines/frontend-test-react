@@ -4,7 +4,9 @@
 # Readme
 
 
-To run this app, you should clone the repo down locally.
+To run this app, you should fork this repo to your Github profile and clone that repo down locally.
+
+When you want to turn in your Challenge, create a PR with your cloned repo to the PMG repo.
 
 Then run `npm install`
 
