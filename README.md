@@ -8,3 +8,5 @@ Then run `npm install`
 Then run `npm run start`
 
 This does assume you have `npm` (Node Package Manager) [installed](https://www.npmjs.com/get-npm), as well as `git` [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git);
+
+Once installed, start the code challenge in `Challenge.md`
