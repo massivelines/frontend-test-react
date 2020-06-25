@@ -6,7 +6,7 @@
 
 To run this app, you should fork this repo to your Github profile and clone that repo down locally.
 
-When you want to turn in your Challenge, create a PR with your cloned repo to the PMG repo.
+When you want to turn in your Challenge, create a PR with your cloned repo to the PMG repo. Please leave this on your repo for enough time for PMG developers to review.
 
 Then run `npm install`
 
