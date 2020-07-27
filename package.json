@@ -8,7 +8,8 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "uuid": "^8.2.0"
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
@@ -34,8 +35,10 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/react-hooks": "^3.4.1",
     "autoprefixer": "^9.8.4",
     "postcss-cli": "^7.1.1",
+    "react-test-renderer": "^16.13.1",
     "tailwindcss": "^1.4.6"
   }
 }
